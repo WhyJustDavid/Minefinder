@@ -9,3 +9,5 @@ https://archive.org/details/GameMaker81
 # Details about each version:
 
 V0.1 was basically what I ended on a few years ago. The main thing is that there is no open area for you to start, the tiles with mines are visible, and you can't detect tiles diagonal to the one you clicked.
+
+More will be addded as I figure out how to do stuff!
